@@ -1,0 +1,8 @@
+sentence-transformers>=2.2.2
+faiss-cpu
+chromadb>=0.4.18
+groq>=0.4.0
+python-dotenv
+torch
+numpy
+pdfplumber
