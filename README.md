@@ -123,22 +123,7 @@ python compare_databases.py
 ## 🤝 Contributing
 
 1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
+2. Create your feature branch (`git checkout -b feature/<Feature-name>`)
+3. Commit your changes (`git commit -m 'Add some Feature'`)
+4. Push to the branch (`git push origin feature/<Feature-name>`)
 5. Open a Pull Request
-
-## 📝 License
-
-This project is developed for Inew Internship - Maxim Pharma.
-
-## 👤 Author
-
-**Atharva Gadekar**
-- GitHub: [@atharva154](https://github.com/atharva154)
-
-## 🙏 Acknowledgments
-
-- Inew Internship Program
-- Maxim Pharma for the compliance documentation
-- LangChain community for excellent documentation
